@@ -528,13 +528,6 @@ const Menu =()=>(
 						<li>
 							<a href="extra_profile_old.html">
 							<i className="icon-user"></i>
-							Old User Profile</a>
-						</li>
-					</ul>
-				</li>
-				<li>
-					<a href={null}>
-					<i className="icon-present"></i>
 					<span className="title">Extra</span>
 					<span className="arrow "></span>
 					</a>
